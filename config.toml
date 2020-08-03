@@ -1,4 +1,4 @@
-baseURL = "https://hugo-quickstart-ahlh.onrender.com/"
+baseURL = "https://test.jpf.fyi/"
 languageCode = "en-us"
 title = "Some better name"
 theme = "ananke"
